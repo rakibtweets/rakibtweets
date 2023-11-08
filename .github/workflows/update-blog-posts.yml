@@ -1,0 +1,50 @@
+name: Update Blog Posts
+on:
+  schedule:
+    - cron: '0 0 * * *' # Run daily at midnight
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: npm install rss-to-json
+
+      - name: Update blog posts
+        run: |
+          node -e "
+            const rssParser = require('rss-to-json');
+            const fs = require('fs');
+
+            const devToUrl = 'https://dev.to/feed/rakibhasan1';
+            const mediumUrl = 'https://medium.com/feed/@rakibhasanroky0';
+
+            async function fetchBlogPosts(url) {
+              try {
+                const feed = await rssParser.load(url);
+                return feed.items.map(item => {
+                  return '- [' + item.title + '](' + item.link + ')';
+                }).join('\n');
+              } catch (error) {
+                console.error(error);
+                return '';
+              }
+            }
+
+            const devToPosts = await fetchBlogPosts(devToUrl);
+            const mediumPosts = await fetchBlogPosts(mediumUrl);
+            const blogPosts = devToPosts + '\n\n' + mediumPosts;
+
+            fs.writeFileSync('./README.md', '# Latest Blog Posts\n\n' + blogPosts);
+          "
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update latest blog posts"
+          git push
