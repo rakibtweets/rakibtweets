@@ -1,19 +1,25 @@
-name: Update Blog Posts
+name: Update Latess
+
 on:
   schedule:
-    - cron: '0 0 * * *' # Run daily at midnight
+    - cron: '0 0 * * *' # Run every day at midnight UTC
 
 jobs:
-  update-readme:
+  update-blogs:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Install dependencies
-        run: npm install rss-to-json
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 14
 
-      - name: Update blog posts
+      - name: Install dependencies
+        run: npm install axios
+
+      - name: Update Blogs
         run: |
           node -e "
             const rssParser = require('rss-to-json');
@@ -40,11 +46,5 @@ jobs:
 
             fs.writeFileSync('./README.md', '# Latest Blog Posts\n\n' + blogPosts);
           "
-
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add .
-          git commit -m "Update latest blog posts"
-          git push
+          env:
+            DEVTO_USERNAME: 'rakibhasan1'
