@@ -37,8 +37,7 @@
 
 <!-- - 📄 Know about my experiences [https://rakib-hasan.netlify.app/](https://rakib-hasan.netlify.app/) -->
 
-## 📕Latest Blog Posts
+# Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
