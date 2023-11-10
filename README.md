@@ -30,7 +30,7 @@
 
 ## 🏆 Github Status
 
-<img  src="https://github-stats-lemon.vercel.app/api?username=adrianhajdin&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
+<img  src="https://github-stats-lemon.vercel.app/api?username=rakibtweets&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibtweets&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="48%" >
 
 <!-- - 📫 How to reach me **rakibhasanroky0@gmail.com** -->
