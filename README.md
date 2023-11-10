@@ -11,7 +11,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://rakib-hasan.netlify.app/](https://rakib-hasan.netlify.app/) -->
 
-- 📝 I regularly write articles on [dev.to](https://dev.to/rakibhasan1)
+- 📝 I regularly write articles on [**dev.to**](https://dev.to/rakibhasan1)
 
 💬 Ask me about **Web Development**
 
