@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on project [DevOverflow](https://github.com/rakibtweets/dev_overflow_nextjs13)
 
 - 🌱 I’m currently learning **Nextjs -Backend**
-
 - 👯 I’m looking to collaborate on open source/commercial projects
 
 <!-- - 👨‍💻 All of my projects are available at [https://rakib-hasan.netlify.app/](https://rakib-hasan.netlify.app/) -->
@@ -28,7 +27,9 @@
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,materialui,nodejs,expressjs,mongodb,git,github,vercel,netlify)
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,firebase,heroku,bootstrap,vscode,bash,figma)
 
-## Latest Blog Posts
+## 📝 Latest Blog Posts
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=600&height=80&lines=I+write+interesting+blog%2C+take+a+look.)](https://git.io/typing-svg)
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
