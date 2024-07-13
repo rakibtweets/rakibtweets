@@ -29,14 +29,9 @@
 
 ## 📝 Latest Blog Posts
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=600&height=80&lines=I+write+interesting+blog%2C+take+a+look.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=600&height=80&lines=I+write+interesting+blog%2C+take+a+look.)](https://dev.to/rakibtweets)
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Installation in Windows: Easy for beginners](https://dev.to/rakibtweets/docker-installation-in-windows-easy-for-beginners-1cca)
-- [Understanding Docker Architecture: A Beginner&#39;s Guide](https://dev.to/rakibtweets/understanding-docker-architecture-a-beginners-guide-fi1)
-- [Containers vs. Virtual Machines: A Beginner’s Journey](https://dev.to/rakibtweets/containers-vs-virtual-machines-a-new-developers-journey-41lb)
-- [React Higher Order Component](https://dev.to/rakibtweets/react-higher-order-component-4c11)
-- [Tailwindcss Breakpoint indicator for development! Super Useful](https://dev.to/rakibtweets/tailwindcss-breakpoint-indicator-for-development-super-useful-2ff6)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 Github Status
