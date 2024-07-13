@@ -20,13 +20,18 @@
 <a href="https://dev.to/rakibtweets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rakibtweets" height="" width="25" /></a>
 <a href="https://twitter.com/rakibofficial007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rakibofficial007" height="" width="25" /></a>
 <a href="https://linkedin.com/in/rakibofficial007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakibofficial007" height="" width="25" /></a>
-<a href="https://medium.com/@rakibhasanroky0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rakibhasanroky0" height="" width="25" /></a>
+<a href="https://medium.com/@rakibtweets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rakibtweets" height="" width="25" /></a>
 </p>
 
 ## My Skills and Technologies I use
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,materialui,nodejs,expressjs,mongodb,git,github,vercel,netlify)
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,firebase,heroku,bootstrap,vscode,bash,figma)
+
+## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 🏆 Github Status
 
@@ -36,8 +41,3 @@
 <!-- - 📫 How to reach me **rakibhasanroky0@gmail.com** -->
 
 <!-- - 📄 Know about my experiences [https://rakib-hasan.netlify.app/](https://rakib-hasan.netlify.app/) -->
-
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
