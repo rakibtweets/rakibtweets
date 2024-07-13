@@ -29,7 +29,7 @@
 
 ## 📝 Latest Blog Posts
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=580&lines=I+have+written+some+interesting+blogs%2C+take+a+look.)](https://dev.to/rakibtweets)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=610&lines=I+have+written+some+interesting+blogs%2C+take+a+look.)](https://dev.to/rakibtweets)
 
 <!-- BLOG-POST-LIST:START -->
 
