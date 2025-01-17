@@ -34,7 +34,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=610&lines=I+have+written+some+interesting+blogs%2C+take+a+look.)](https://dev.to/rakibtweets)
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Dockerize MERN Application](https://dev.to/rakibtweets/dockerize-mern-application-23g5)
 - [Dockerizing an Express App with MongoDB Database](https://dev.to/rakibtweets/dockerizing-an-express-app-with-mongodb-database-4jf2)
 - [Effortlessly Dockerize Your Vite-React Application](https://dev.to/rakibtweets/effortlessly-dockerize-your-vite-react-application-5bid)
