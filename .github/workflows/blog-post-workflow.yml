@@ -16,4 +16,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           remove_duplicates: true
-          feed_list: 'https://dev.to/feed/rakibtweets'
+          feed_list: 'https://dev.to/feed/rakib-dev'

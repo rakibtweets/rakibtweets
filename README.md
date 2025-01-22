@@ -1,4 +1,4 @@
-[![Rakib Hasan](https://res.cloudinary.com/dgur3iyy9/image/upload/v1699459564/githubProfile_ds3k2m.jpg)](https://rakib-hasan.vercel.app/)
+[![Rakib Hasan](https://res.cloudinary.com/dc0mg61r4/image/upload/v1737563181/resumes/github-cover-image.png)](https://rakib-hasan.vercel.app/)
 
 <h1 align="center">Hi 👋, I'm Rakib Hasan</h1>
 <h3 align="center">A full-stack web developer. I do coding for fun and build real world project. Love to create things that enable creativity.</h3>
@@ -10,16 +10,16 @@
 
 - 👨‍💻 All of my projects are available at [rakib-hasan.me](https://rakib-hasan.me)
 
-- 📝 I regularly write articles on [**dev.to/rakibtweets**](https://dev.to/rakibtweets)
+- 📝 I regularly write articles on [**dev.to/rakib-dev**](https://dev.to/rakib-dev)
 
 💬 Ask me about **Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" >
 
-<a href="https://dev.to/rakibtweets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rakibtweets" height="" width="25" /></a>
-<a href="https://twitter.com/rakibofficial007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rakibofficial007" height="" width="25" /></a>
-<a href="https://linkedin.com/in/rakibofficial007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakibofficial007" height="" width="25" /></a>
+<a href="https://dev.to/rakib-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rakibtweets" height="" width="25" /></a>
+<a href="https://twitter.com/RakibTweets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rakibofficial007" height="" width="25" /></a>
+<a href="https://linkedin.com/in/rakibhasan-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakibofficial007" height="" width="25" /></a>
 <a href="https://medium.com/@rakibtweets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rakibtweets" height="" width="25" /></a>
 
 </p>
