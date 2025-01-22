@@ -34,11 +34,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=610&lines=I+have+written+some+interesting+blogs%2C+take+a+look.)](https://dev.to/rakibtweets)
 
 <!-- BLOG-POST-LIST:START -->
-- [Dockerize MERN Application](https://dev.to/rakibtweets/dockerize-mern-application-23g5)
-- [Dockerizing an Express App with MongoDB Database](https://dev.to/rakibtweets/dockerizing-an-express-app-with-mongodb-database-4jf2)
-- [Effortlessly Dockerize Your Vite-React Application](https://dev.to/rakibtweets/effortlessly-dockerize-your-vite-react-application-5bid)
-- [Docker: Images Vs Containers](https://dev.to/rakibtweets/docker-images-vs-containers-2ige)
-- [Docker Installation in Windows: Easy for beginners](https://dev.to/rakibtweets/docker-installation-in-windows-easy-for-beginners-1cca)
+- [Dockerize MERN Application](https://dev.to/rakib-dev/dockerize-mern-application-23g5)
+- [Dockerizing an Express App with MongoDB Database](https://dev.to/rakib-dev/dockerizing-an-express-app-with-mongodb-database-4jf2)
+- [Effortlessly Dockerize Your Vite-React Application](https://dev.to/rakib-dev/effortlessly-dockerize-your-vite-react-application-5bid)
+- [Docker: Images Vs Containers](https://dev.to/rakib-dev/docker-images-vs-containers-2ige)
+- [Docker Installation in Windows: Easy for beginners](https://dev.to/rakib-dev/docker-installation-in-windows-easy-for-beginners-1cca)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🏆 Github Status
